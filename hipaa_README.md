@@ -160,4 +160,4 @@ The mock assessment reflects a common pattern for organizations earlier in HIPAA
 
 **Joseph Lee** — GRC & Privacy Program Manager  
 CIPP/US · CIPP/E · AWS Cloud Practitioner · OneTrust Certified  
-[LinkedIn](https://linkedin.com/in/[your-handle]) · [Portfolio](https://joe-lee10.github.io)
+[LinkedIn](https://linkedin.com/in/joelee19/) · [Portfolio](https://joe-lee10.github.io)
